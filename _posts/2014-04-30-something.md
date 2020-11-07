@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Title of the post"
+title: "something"
 date: 2014-04-31
 ---
 
